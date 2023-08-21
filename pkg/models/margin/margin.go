@@ -3,7 +3,7 @@ package margin
 import (
 	"fmt"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/convert"
+	"github.com/vx416/bitfinex-api-go/pkg/convert"
 )
 
 type InfoBase struct {

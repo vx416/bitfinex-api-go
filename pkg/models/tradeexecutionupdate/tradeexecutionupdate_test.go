@@ -3,9 +3,9 @@ package tradeexecutionupdate_test
 import (
 	"testing"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/tradeexecutionupdate"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	"github.com/vx416/bitfinex-api-go/pkg/models/tradeexecutionupdate"
 )
 
 func TestNewTradeExecutionUpdateFromRaw(t *testing.T) {

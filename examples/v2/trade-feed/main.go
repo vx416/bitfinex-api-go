@@ -5,8 +5,8 @@ import (
 	"log"
 	_ "net/http/pprof"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/trade"
-	"github.com/bitfinexcom/bitfinex-api-go/v2/websocket"
+	"github.com/vx416/bitfinex-api-go/pkg/models/trade"
+	"github.com/vx416/bitfinex-api-go/v2/websocket"
 )
 
 func main() {

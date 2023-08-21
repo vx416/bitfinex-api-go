@@ -1,6 +1,6 @@
 # rest
 --
-    import "github.com/bitfinexcom/bitfinex-api-go/v2/rest"
+    import "github.com/vx416/bitfinex-api-go/v2/rest"
 
 
 ## Usage

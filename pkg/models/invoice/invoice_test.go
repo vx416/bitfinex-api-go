@@ -3,9 +3,9 @@ package invoice_test
 import (
 	"testing"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/invoice"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	"github.com/vx416/bitfinex-api-go/pkg/models/invoice"
 )
 
 func TestNewInvoiceFromRaw(t *testing.T) {

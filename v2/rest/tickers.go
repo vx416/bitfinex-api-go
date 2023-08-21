@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/ticker"
+	"github.com/vx416/bitfinex-api-go/pkg/models/ticker"
 )
 
 // TickerService manages the Ticker endpoint.

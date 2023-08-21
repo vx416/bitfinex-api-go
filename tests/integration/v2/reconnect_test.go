@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/common"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/ticker"
-	"github.com/bitfinexcom/bitfinex-api-go/v2/websocket"
+	"github.com/vx416/bitfinex-api-go/pkg/models/common"
+	"github.com/vx416/bitfinex-api-go/pkg/models/ticker"
+	"github.com/vx416/bitfinex-api-go/v2/websocket"
 )
 
 var (

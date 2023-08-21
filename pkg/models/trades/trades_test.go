@@ -3,9 +3,9 @@ package trades_test
 import (
 	"testing"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/trades"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	"github.com/vx416/bitfinex-api-go/pkg/models/trades"
 )
 
 func TestTradesFromWSRaw(t *testing.T) {

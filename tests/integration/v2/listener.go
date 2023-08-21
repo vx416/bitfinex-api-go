@@ -5,17 +5,17 @@ import (
 	"log"
 	"time"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/balanceinfo"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/fundinginfo"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/margin"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/notification"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/order"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/position"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/ticker"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/tradeexecution"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/tradeexecutionupdate"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/wallet"
-	"github.com/bitfinexcom/bitfinex-api-go/v2/websocket"
+	"github.com/vx416/bitfinex-api-go/pkg/models/balanceinfo"
+	"github.com/vx416/bitfinex-api-go/pkg/models/fundinginfo"
+	"github.com/vx416/bitfinex-api-go/pkg/models/margin"
+	"github.com/vx416/bitfinex-api-go/pkg/models/notification"
+	"github.com/vx416/bitfinex-api-go/pkg/models/order"
+	"github.com/vx416/bitfinex-api-go/pkg/models/position"
+	"github.com/vx416/bitfinex-api-go/pkg/models/ticker"
+	"github.com/vx416/bitfinex-api-go/pkg/models/tradeexecution"
+	"github.com/vx416/bitfinex-api-go/pkg/models/tradeexecutionupdate"
+	"github.com/vx416/bitfinex-api-go/pkg/models/wallet"
+	"github.com/vx416/bitfinex-api-go/v2/websocket"
 )
 
 type listener struct {

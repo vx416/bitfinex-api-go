@@ -3,9 +3,9 @@ package derivatives_test
 import (
 	"testing"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/derivatives"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	"github.com/vx416/bitfinex-api-go/pkg/models/derivatives"
 )
 
 func TestNewDerivativeStatusFromWsRaw(t *testing.T) {

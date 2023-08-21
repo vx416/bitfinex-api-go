@@ -4,8 +4,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/bitfinexcom/bitfinex-api-go/v2/rest"
 	"github.com/davecgh/go-spew/spew"
+	"github.com/vx416/bitfinex-api-go/v2/rest"
 )
 
 func main() {

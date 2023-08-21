@@ -3,10 +3,10 @@ package pulse_test
 import (
 	"testing"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/pulse"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/pulseprofile"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	"github.com/vx416/bitfinex-api-go/pkg/models/pulse"
+	"github.com/vx416/bitfinex-api-go/pkg/models/pulseprofile"
 )
 
 func TestNewPulseFromRaw(t *testing.T) {

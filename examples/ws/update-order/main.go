@@ -5,9 +5,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/event"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/order"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/mux"
+	"github.com/vx416/bitfinex-api-go/pkg/models/event"
+	"github.com/vx416/bitfinex-api-go/pkg/models/order"
+	"github.com/vx416/bitfinex-api-go/pkg/mux"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package tests
 import (
 	"os"
 
-	"github.com/bitfinexcom/bitfinex-api-go/v1"
+	"github.com/vx416/bitfinex-api-go/v1"
 )
 
 var (
